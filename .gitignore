@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment and local configuration
+.env
+*.local
+
+# Restricted input data
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.tsv
+data/*.sav
+data/*.mat
+!data/expected_columns.csv
+
+# Generated outputs and fitted models
+results/*
+!results/.gitkeep
+*.joblib
+*.pkl
+
+# Temporary office files
+~$*.docx
+~$*.xlsx

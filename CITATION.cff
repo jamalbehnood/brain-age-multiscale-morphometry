@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript and this repository."
+title: "Multiscale Cortical Brain-Age Prediction Pipeline"
+type: software
+version: 1.0.0
+date-released: 2026-09-27
+authors:
+  - family-names: Behnood
+    given-names: Jamal
+    orcid: "https://orcid.org/0009-0002-6978-9401"
+  - family-names: Batouli
+    given-names: Seyed Amir Hossein
+    orcid: "https://orcid.org/0000-0002-9157-4522"
+  - family-names: Soleymani
+    given-names: Yunus
+    orcid: "https://orcid.org/0000-0002-7374-5105"
+  - family-names: Amini
+    given-names: Morteza
+    orcid: "https://orcid.org/0000-0003-4602-9653"
+  - family-names: Hassanzadeh
+    given-names: Gholamreza
+    orcid: "https://orcid.org/0000-0003-0724-6479"
+keywords:
+  - brain age
+  - cortical morphometry
+  - fractal dimension
+  - nested cross-validation
+  - explainable machine learning
+license: MIT
